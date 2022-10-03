@@ -5,9 +5,9 @@ This data was scraped from cars24.com.
 
 I used Octoparse to scrape the data from the website.
 
-Name
+*Name
 
-Variant
+*Variant
 
 Transmission
 

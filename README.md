@@ -29,3 +29,4 @@ I used Octoparse to scrape the data from the website.
 * Streamlit
 
 ## Model Page
+![alt text](https://github.com/Yogesh4550/LeastSquare-master/blob/main/images/Models_page.png)

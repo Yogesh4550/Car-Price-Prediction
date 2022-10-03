@@ -20,3 +20,12 @@ I used Octoparse to scrape the data from the website.
 * Price
 
 * Age (Derived from Year Purchased)
+## Packaged Used
+* Numpy
+* Pandas 
+* Seaborn
+* Matplotlib
+* Datetime
+* Streamlit
+
+## Model Page

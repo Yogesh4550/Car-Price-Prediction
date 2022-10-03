@@ -7,16 +7,16 @@ I used Octoparse to scrape the data from the website.
 
 * Name
 
-*Variant
+* Variant
 
-Transmission
+* Transmission
 
-km_driven
+* km_driven
 
-Owner_Type
+* Owner_Type
 
-Fuel
+* Fuel
 
-Price
+* Price
 
-Age (Derived from Year Purchased)
+* Age (Derived from Year Purchased)

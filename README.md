@@ -30,3 +30,6 @@ I used Octoparse to scrape the data from the website.
 
 ## Model Page
 ![alt text](https://github.com/Yogesh4550/LeastSquare-master/blob/main/images/Models_page.png)
+
+## Predict Page
+![alt text](https://github.com/Yogesh4550/LeastSquare-master/blob/main/images/Prediction_page.png)

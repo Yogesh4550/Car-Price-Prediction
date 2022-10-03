@@ -28,6 +28,9 @@ I used Octoparse to scrape the data from the website.
 * Datetime
 * Streamlit
 
+## Explore Page
+![alt text](https://github.com/Yogesh4550/LeastSquare-master/blob/main/images/Explore_page.png)
+
 ## Model Page
 ![alt text](https://github.com/Yogesh4550/LeastSquare-master/blob/main/images/Models_page.png)
 
